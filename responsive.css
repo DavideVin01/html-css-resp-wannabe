@@ -7,6 +7,7 @@
     #lezioni{
         background-color: #F2F2CD;
         min-width: 419px;
+        padding-bottom: 3px;
     }
 
     .row{
@@ -42,6 +43,7 @@
     #why{
         background-color: #F2F2CD;
         width: 419px;
+        padding-bottom: 3px;
     }
 
 }
